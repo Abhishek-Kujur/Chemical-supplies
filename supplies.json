@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "Chemical-Name": "Ammonium Persulfate",
+        "Vendor": "LG Chem",
+        "Density(g/m³)": 3525.92,
+        "Viscosity(m²/s)": 60.63,
+        "Packaging": "Bag",
+        "Pack-Size": 100.00,
+        "Unit": "kg",
+        "Quantity": 6495.18
+    },
+    {
+        "id": 2,
+        "Chemical-Name": "Caustic Potash",
+        "Vendor": "Formosa",
+        "Density(g/m³)": 3172.15,
+        "Viscosity(m²/s)": 48.22,
+        "Packaging": "Bag",
+        "Pack-Size": 100.00,
+        "Unit": "kg",
+        "Quantity": 8751.90
+    },
+    {
+        "id": 3,
+        "Chemical-Name": "Dimethylaminopropylamino",
+        "Vendor": "LG Chem",
+        "Density(g/m³)": 8435.37,
+        "Viscosity(m²/s)": 12.62,
+        "Packaging": "Barrel",
+        "Pack-Size": 75.00,
+        "Unit": "L",
+        "Quantity": 5964.61
+    },
+    {
+        "id": 4,
+        "Chemical-Name": "Mono Ammonium Phosphate",
+        "Vendor": "Sinopec",
+        "Density(g/m³)": 1597.65,
+        "Viscosity(m²/s)": 76.51,
+        "Packaging": "Bag",
+        "Pack-Size": 105.00,
+        "Unit": "kg",
+        "Quantity": 8183.73
+    },
+    {
+        "id": 5,
+        "Chemical-Name": "Ferric Nitrate",
+        "Vendor": "DowDuPont",
+        "Density(g/m³)": 364.84,
+        "Viscosity(m²/s)": 14.90,
+        "Packaging": "Bag",
+        "Pack-Size": 105.00,
+        "Unit": "kg",
+        "Quantity": 4154.33
+    },
+    {
+        "id": 6,
+        "Chemical-Name": "n-Pentane",
+        "Vendor": "Sinopec",
+        "Density(g/m³)": 4535.26,
+        "Viscosity(m²/s)": 66.76,
+        "Packaging": "N/A",
+        "Pack-Size": "N/A",
+        "Unit": "t",
+        "Quantity": 6272.34
+    },
+    {
+        "id": 7,
+        "Chemical-Name": "Glycol Ether PM",
+        "Vendor": "LG Chem",
+        "Density(g/m³)": 6495.18,
+        "Viscosity(m²/s)": 72.12,
+        "Packaging": "Bag",
+        "Pack-Size": 250.00,
+        "Unit": "kg",
+        "Quantity": 8749.54
+    },
+    {
+        "id": 8,
+        "Chemical-Name": "Cyclohexanone",
+        "Vendor": "LG Chem",
+        "Density(g/m³)": 3584.02,
+        "Viscosity(m²/s)": 70.21,
+        "Packaging": "Drum",
+        "Pack-Size": 95.00,
+        "Unit": "L",
+        "Quantity": 5915.18
+    },
+    {
+        "id": 9,
+        "Chemical-Name": "Acrylonitrile",
+        "Vendor": "Sinopec",
+        "Density(g/m³)": 4125.81,
+        "Viscosity(m²/s)": 81.02,
+        "Packaging": "Bag",
+        "Pack-Size": 200.00,
+        "Unit": "kg",
+        "Quantity": 4812.71
+    },
+    {
+        "id": 10,
+        "Chemical-Name": "Methyl Methacrylate",
+        "Vendor": "DowDuPont",
+        "Density(g/m³)": 5221.21,
+        "Viscosity(m²/s)": 73.09,
+        "Packaging": "Barrel",
+        "Pack-Size": 77.00,
+        "Unit": "L",
+        "Quantity": 7125.84
+    },
+    {
+        "id": 11,
+        "Chemical-Name": "Acrylonitrile",
+        "Vendor": "Formosa",
+        "Density(g/m³)": 5925.42,
+        "Viscosity(m²/s)": 63.14,
+        "Packaging": "Bag",
+        "Pack-Size": 150.00,
+        "Unit": "kg",
+        "Quantity": 7814.94
+    },
+    {
+        "id": 12,
+        "Chemical-Name": "N-Hexane",
+        "Vendor": "LG Chem",
+        "Density(g/m³)": 4725.92,
+        "Viscosity(m²/s)": 53.15,
+        "Packaging": "Bag",
+        "Pack-Size": 170.00,
+        "Unit": "kg",
+        "Quantity": 6394.17
+    },
+    {
+        "id": 13,
+        "Chemical-Name": "Butene-1",
+        "Vendor": "DowDuPont",
+        "Density(g/m³)": 5189.92,
+        "Viscosity(m²/s)": 79.18,
+        "Packaging": "Bag",
+        "Pack-Size": 200.00,
+        "Unit": "kg",
+        "Quantity": 4318.48
+    },
+    {
+        "id": 14,
+        "Chemical-Name": "Caprolactam",
+        "Vendor": "Sinopec",
+        "Density(g/m³)": 4971.22,
+        "Viscosity(m²/s)": 74.13,
+        "Packaging": "Bag",
+        "Pack-Size": 175.00,
+        "Unit": "kg",
+        "Quantity": 4973.49
+    },
+    {
+        "id": 15,
+        "Chemical-Name": "Aniline",
+        "Vendor": "LG Chem",
+        "Density(g/m³)": 5187.92,
+        "Viscosity(m²/s)": 55.63,
+        "Packaging": "Bag",
+        "Pack-Size": 100.00,
+        "Unit": "kg",
+        "Quantity": 5761.18
+    }
+]

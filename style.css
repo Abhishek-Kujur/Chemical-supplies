@@ -1,0 +1,86 @@
+body {
+    background-color: #BAD7E9;
+}
+
+img {
+    width: 20px;
+}
+
+.table-style {
+    background-color: #131b47 !important;
+    border: none !important;
+}
+
+tbody tr {
+    color: white;
+}
+
+thead tr th:hover {
+    cursor: pointer !important;
+}
+
+.top-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0;
+}
+
+tr.selected {
+    background-color: rgb(17, 114, 29);
+    color: white;
+}
+
+#btns {
+    display: flex;
+    align-items: center;
+}
+
+.add-row {
+    display: none;
+}
+
+.btn {
+    border: none;
+    background: none;
+    margin: 2px;
+    color: white;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.fields {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.field {
+    display: grid;
+    margin: 5px !important;
+    width: 30%;
+    box-sizing: border-box;
+    justify-content: center !important;
+}
+
+.ui.form input:not([type]) {
+    width: auto !important;
+}
+
+.submit-btn {
+    background: #3498db;
+    border-radius: 30px;
+    text-shadow: 1px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    position: relative;
+    left: 47%;
+}
+
+.submit-btn:hover {
+    cursor: pointer;
+}
