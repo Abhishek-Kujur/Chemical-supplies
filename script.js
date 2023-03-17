@@ -23,6 +23,7 @@ save.addEventListener('click', () => {
 
 //Refresh button functionality
 refresh.addEventListener('click', () => {
+    updatedData = [];
     renderTable();
 })
 
